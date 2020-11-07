@@ -2,7 +2,7 @@
 
 Engenheiro de software, desenvolvedor web, Security Champion, Ethical hacker in training.
 
-Para mais detalhes sobre minhas experiencias profissionais acesse: [linkedin](https://www.linkedin.com/in/marcio-barbosa-1082274a/).
+Para mais detalhes sobre minhas experiências profissionais acesse: [linkedin](https://www.linkedin.com/in/marcio-barbosa-1082274a/).
 
 ### Atualmente Analista de Sistemas pleno na [Invillia](https://invillia.com/global-growth-framework/)
 
