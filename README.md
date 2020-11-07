@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+## Márcio Barbosa Gomes
 
-You can use the [editor on GitHub](https://github.com/MarcioBdeveloper/marciobdeveloper.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Engenheiro de software, desenvolvedor web, Security Champion, Ethical hacker in training.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Para mais detalhes sobre minhas experiencias profissionais acesse: [linkedin](https://www.linkedin.com/in/marcio-barbosa-1082274a/).
 
-### Markdown
+### Atualmente Analista de Sistemas pleno na [Invillia](https://invillia.com/global-growth-framework/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Atuando como desenvolvedor backend java e security champion, em produtos da Pagseguro. 
 
 ```markdown
-Syntax highlighted code block
+Tecnologias que venho utilizando e estudando:
 
-# Header 1
-## Header 2
-### Header 3
+1. Java
+2. Spring(Boot, Data, Cache, Batch, MVC)
+3. Microserviços
+4. Kafka
+5. Sonar
+6. Jenkins
+7. Migration
+8. Git
+9. jUnit
+10. Mockito
+11. docker
+12. SQL
+13. Rest Api
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
+### Areas de atuação
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+1. Setor publico
+2. Setor juridico
+3. Setor de meios de pagamento
 
-### Jekyll Themes
+### Contatos
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MarcioBdeveloper/marciobdeveloper.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Email: marciobarbosamobile@gmail.com
 
-### Support or Contact
+Fone/Whatsapp: (83) 999599895
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
