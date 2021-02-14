@@ -8,7 +8,7 @@ Para mais detalhes sobre minhas experiências profissionais acesse: [linkedin](h
 
 Atuando como desenvolvedor backend java web, em produtos do Banco BV. 
 
-```markdown
+```
 Tecnologias que venho utilizando e estudando:
 
 . Java
@@ -30,4 +30,7 @@ Tecnologias que venho utilizando e estudando:
 Email: marciobarbosamobile@gmail.com
 
 Fone/Whatsapp: (83) 999599895
+
+### Hobbies 
+[youtube](https://www.youtube.com/c/MarcioBarbosaGomes/videos) em construção.
 
