@@ -4,9 +4,9 @@ Engenheiro de software, desenvolvedor web, Ethical hacker in training.
 
 Para mais detalhes sobre minhas experiências profissionais acesse: [linkedin](https://www.linkedin.com/in/marcio-barbosa-1082274a/).
 
-### Atualmente Engenheiro de software na [CWI](https://cwi.com.br/)
+### Atualmente Engenheiro de software no [Ifood](https://www.ifood.com.br/)
 
-Atuando como desenvolvedor backend java web, em produtos do Banco BV. 
+Ajudando a alimentar o furuto do mundo!
 
 ```
 Tecnologias que venho utilizando e estudando:
@@ -31,6 +31,4 @@ Email: marciobarbosamobile@gmail.com
 
 Fone/Whatsapp: (83) 999599895
 
-### Hobbies 
-[youtube](https://www.youtube.com/c/MarcioBarbosaGomes/videos) em construção.
 
