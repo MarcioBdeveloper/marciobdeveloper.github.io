@@ -1,6 +1,6 @@
 ## Márcio Barbosa Gomes
 
-Engenheiro de software, desenvolvedor web, Ethical hacker in training.
+Engenheiro de software, desenvolvedor web.
 
 Para mais detalhes sobre minhas experiências profissionais acesse: [linkedin](https://www.linkedin.com/in/marcio-barbosa-1082274a/).
 
@@ -13,6 +13,7 @@ Tecnologias que venho utilizando e estudando:
 
 . Java
 . Spring(Boot, Data, Cache, Batch, MVC)
+. Quarkus
 . Microserviços
 . Kafka
 . Sonar
@@ -24,6 +25,10 @@ Tecnologias que venho utilizando e estudando:
 . docker
 . SQL
 . Rest Api
+. Typescript
+. NodeJs
+. React
+. Golang
 
 ### Contatos
 
