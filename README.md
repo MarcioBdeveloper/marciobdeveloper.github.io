@@ -2,33 +2,35 @@
 
 Engenheiro de software, desenvolvedor web.
 
-Para mais detalhes sobre minhas experiências profissionais acesse: [linkedin](https://www.linkedin.com/in/marcio-barbosa-1082274a/).
+Para mais detalhes sobre minhas experiências profissionais acesse: [linkedin](https://www.linkedin.com/in/marcio-barbosa-gomes/).
 
-### Atualmente Engenheiro de software no [Ifood](https://www.ifood.com.br/)
+### Atualmente Engenheiro de software Senior na [Bemobi](https://bemobi.com/)
 
-Ajudando a alimentar o furuto do mundo!
+Construindo meios de pagamentos para clientes das areas de utilities, telefonia e educação.
 
 ```
 Tecnologias que venho utilizando e estudando:
 
 . Java
 . Spring(Boot, Data, Cache, Batch, MVC)
-. Quarkus
 . Microserviços
 . Kafka
 . Sonar
-. Jenkins
 . Migration
 . Git
+. Bitbucket
 . jUnit
 . Mockito
 . docker
-. SQL
+. Postgres
+. AWS DynnamoDB
 . Rest Api
-. Typescript
-. NodeJs
-. React
 . Golang
+. AWS Api gateway
+. AWS SQS
+. AWS SNS
+. AWS Cloudwatch
+. AWS RDS
 
 ### Contatos
 
